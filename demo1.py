@@ -34,9 +34,6 @@ else: print("invalid input")
 
 
 
-         
-
-
 
 
 
